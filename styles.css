@@ -1,0 +1,33 @@
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    color: #333333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p {
+    color: rgb(193, 193, 255);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+ol {
+    color:rgb(255, 41, 255);
+    margin-left: 20px;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    color: #e100ff;
+    text-decoration: none;
+}
