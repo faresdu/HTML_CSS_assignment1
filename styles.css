@@ -1,17 +1,18 @@
 body {
-    background-color: #ffffff;
+    background-color: #ddcaad;
     font-family: Arial, sans-serif;
     font-size: 16px;
+    margin: 50 auto;
 }
 
 h1 {
-    color: #333333;
+    color: #1ce9d8;
     text-align: center;
     margin-bottom: 20px;
 }
 
 p {
-    color: rgb(193, 193, 255);
+    color: rgb(80, 219, 37);
     padding: 10px;
     margin-bottom: 20px;
 }
